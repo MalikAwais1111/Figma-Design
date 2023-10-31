@@ -1,0 +1,22 @@
+.footer{
+    margin-top: 140px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.icons img{
+    width: 40px;
+    margin-right: 20px;
+}
+.copyright{
+    margin-top: 20px;
+    display: flex;
+    margin-right: 10px;
+    justify-content: center; 
+    font-size: 17px;
+    font-family: arial;
+    font-weight: 700;
+    color:  rgb(127, 125, 125);
+}
